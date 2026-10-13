@@ -1,2 +1,2 @@
 # hello-world
-witaj git
+czesc jestem pawel, siedze przy komputerze 16.
